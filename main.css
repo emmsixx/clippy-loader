@@ -11,7 +11,7 @@
 :root .container__827e6 > .content__de05de .ready__61f2f {
   display: none;
 }
-:root .container__827e6 > .content__de05de .ready__61f2f + .text__32559 {
+:root .container__827e6 > .content__de05de .ready__61f2f + .text__35f5c {
   top: 50px;
 }
 :root .container__827e6 > .content__de05de::before {
@@ -21,6 +21,6 @@
   left: calc(50% - 100px);
   width: 200px;
   height: 200px;
-  background: url("https://github.com/Blisterexe/shiggy-loader/blob/main/shiggy.gif?raw=true") center/80% no-repeat !important;
+  background: url("https://github.com/RandomVee/shiggy-loader/blob/main/shiggy.gif?raw=true") center/80% no-repeat !important;
   image-rendering: pixelated;
 }
