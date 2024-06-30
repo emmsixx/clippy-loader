@@ -5,16 +5,16 @@
 * @version 1.0
 */
 
-.container__827e6.fixClipping__84826 > .content_de05de {
+.container_e40c16.fixClipping_c7e9c6 > .content_e40c16 {
   position: relative;
 }
-.container__827e6.fixClipping__84826 > .content_de05de .ready__61f2f {
+.container_e40c16.fixClipping_c7e9c6 > .content_e40c16 .ready_e40c16 {
   display: none;
 }
-.container__827e6.fixClipping__84826 > .content_de05de .ready__61f2f + .text__35f5c {
+.container_e40c16.fixClipping_c7e9c6 > .content_e40c16 .ready_e40c16 + .text_e40c16 {
   top: 50px;
 }
-.container__827e6.fixClipping__84826 > .content_de05de::before {
+.container_e40c16.fixClipping_c7e9c6 > .content_e40c16::before {
   content: "";
   position: absolute;
   bottom: 10px;
@@ -24,4 +24,3 @@
   background: url("https://github.com/Blisterexe/shiggy-loader/blob/main/shiggy.gif?raw=true") center/80% no-repeat !important;
   image-rendering: pixelated;
 }
-
