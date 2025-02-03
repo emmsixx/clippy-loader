@@ -5,16 +5,16 @@
 * @version 1.0
 */
 
-.container_e40c16.fixClipping_c7e9c6 > .content_e40c16 {
+.container_a2f514.fixClipping_efbae7 > .content_a2f514 {
   position: relative;
 }
-.container_e40c16.fixClipping_c7e9c6 > .content_e40c16 .ready_e40c16 {
+.container_a2f514.fixClipping_efbae7 > .content_a2f514 .ready_a2f514 {
   display: none;
 }
-.container_e40c16.fixClipping_c7e9c6 > .content_e40c16 .ready_e40c16 + .text_e40c16 {
+.container_a2f514.fixClipping_efbae7 > .content_a2f514 .ready_a2f514 + .text_a2f514 {
   top: 50px;
 }
-.container_e40c16.fixClipping_c7e9c6 > .content_e40c16::before {
+.container_a2f514.fixClipping_efbae7 > .content_a2f514::before {
   content: "";
   position: absolute;
   bottom: 10px;
