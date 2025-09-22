@@ -1,7 +1,7 @@
 /*
-* @name Shiggy loader
-* @author blisterexe
-* @description funny shiggy loading icon for discord 
+* @name Clippy loader
+* @author m6
+* @description funny clipy loading icon for discord, forked from shiggy loader blisterexe 
 * @version 1.0
 */
 
@@ -21,6 +21,6 @@
   left: calc(50% - 100px);
   width: 200px;
   height: 200px;
-  background: url("https://github.com/Blisterexe/shiggy-loader/blob/main/shiggy.gif?raw=true") center/80% no-repeat !important;
+  background: url("https://github.com/emmsixx/clippy-loader/blob/main/clippy.gif?raw=true") center/80% no-repeat !important;
   image-rendering: pixelated;
 }
